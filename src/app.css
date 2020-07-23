@@ -1,0 +1,18 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #6CDC3E;
+}
+
+.retpokemon{
+  color: white;
+  display: flex;
+  
+}
+
+.resultado-tela{
+  display: block;
+  margin: 5%;
+}
